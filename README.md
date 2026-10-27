@@ -30,6 +30,21 @@ Watch the recorded demonstration of the Human Anatomy AR/VR project.
 
 [![Human Anatomy AR/VR Demo](https://img.youtube.com/vi/vlaSou2Ahho/0.jpg)](https://youtu.be/vlaSou2Ahho)
 
+
+## 📸 Project Screenshots
+
+### VR Main Menu
+![Main Menu](Screenshots/Main%20Menu.jpg)
+
+### Organ Information
+![Organ Information](Screenshots/Organ%20Information1.jpg)
+
+### Brain Visualization
+![Organ Visualization](Screenshots/Organ%20Visualization.jpg)
+
+### Organ Information Panel
+![Organ Information](Screenshots/Organ%20Information2.jpg)
+
 ▶️ **[Watch the Full Demo on YouTube](https://youtu.be/vlaSou2Ahho)**
 
 ## 🗂️ Project Structure
